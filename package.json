@@ -17,9 +17,12 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "tw-elements": "^1.0.0-alpha12",
-    "web-vitals": "^2.1.4",
-    "node": "^18.0.0"
+    "web-vitals": "^2.1.4"
   },
+  "engines": {
+		"node": "^18.0.0",
+		"npm": "^8.13.2"
+	},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

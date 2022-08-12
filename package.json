@@ -28,8 +28,7 @@
     "start": "react-scripts start",
     "build": "npm i && react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "heroku buildpacks":"set mars/create-react-app"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
